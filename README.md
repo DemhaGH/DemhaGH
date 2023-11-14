@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DemhaGH
 - 👀 I’m interested in progaming
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on idk we'll see
 - 📫 How to reach me ask me here
 
